@@ -23,6 +23,7 @@ variables:
 ### RUN TEST
 ```sh
 $ pipenv run pytest
+$ pipenv run pytest --cov
 ```
 
 ### API CALL EXAMPLES
